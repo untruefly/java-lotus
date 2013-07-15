@@ -2,7 +2,7 @@ import de.bea.domingo.groupware.*;
 import de.bea.domingo.notes.*;
 import java.util.*;
 
-public class Test 
+public class TestGroupware 
 {
     // by untruefly
     public static void main(String[] args) throws GroupwareException
