@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Test 
 {
+    // by untruefly
     public static void main(String[] args) throws GroupwareException
     {
         Groupware groupware = new Groupware("notes:///local!!mail/log.nsf");
